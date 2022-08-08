@@ -218,3 +218,12 @@
   </prerequisites>
 
 </project>
+
+<project>
+  ...
+  <build>
+    <defaultGoal>install</defaultGoal>
+    ...
+  </build>
+  ...
+</project>
